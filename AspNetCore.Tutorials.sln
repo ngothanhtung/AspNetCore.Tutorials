@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore.Tutorials", "AspNetCore.Tutorials\AspNetCore.Tutorials.csproj", "{D69BC633-30B8-43DB-8858-FADBD1F09B75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D69BC633-30B8-43DB-8858-FADBD1F09B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D69BC633-30B8-43DB-8858-FADBD1F09B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D69BC633-30B8-43DB-8858-FADBD1F09B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D69BC633-30B8-43DB-8858-FADBD1F09B75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
